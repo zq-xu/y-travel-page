@@ -1,0 +1,1 @@
+import{d as s,r as a,aH as t,aI as c,aJ as o}from"./index-e5e79e33.js";const r={class:"h-full"},n=["src"],f=s({__name:"index",setup(l){const e=a("https://docs.y-travel.pro/");return(_,d)=>(t(),c("div",r,[o("iframe",{class:"wh-full",src:e.value},null,8,n)]))}});export{f as default};
