@@ -1,0 +1,1 @@
+import{jW as e,jX as o}from"./index-7d88c287.js";import{c as s}from"./crud-ca5eec89.js";const t=`/${o}/vehicles/companies`,c=`/${o}/vehicles/inquiry`,i=`/${o}/vehicles/types`,h=s(e,t),p=s(e,i),r=s(e,c);export{h as a,r as b,p as v};

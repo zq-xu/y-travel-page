@@ -1,0 +1,1 @@
+import{aS as a}from"./index-7d88c287.js";async function m(r,c){var o,s;const{error:e}=await r();e?(o=window.$message)==null||o.error(`${a("yTravel.common.operateFailed")} ${e.msg}`):(s=window.$message)==null||s.success(a("yTravel.common.editSuccess")),c(e)}export{m as d};
